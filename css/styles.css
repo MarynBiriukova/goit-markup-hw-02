@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: NAVY BLUE;
+    color: #2E2F42;
     background-color: #ffffff;
 }
 
@@ -8,11 +8,23 @@ ul {
     list-style-type: none;
 }
 
+.hero 
+{
+    background-color: #2E2F42;
+    color: white;
+}
+
+.order-button
+{
+    background-color: #4D5AE5;
+
+}
+
 .link {
     text-decoration: none;
 }
 .accent {
-    color: IRIS; 
+    color: #4D5AE5; 
 }
 
 .order-button{
