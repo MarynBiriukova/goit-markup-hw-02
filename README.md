@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-1 HW FullStack Developer / 1. Модуль 1. Основи HTML
+# goit-markup-hw-02
+2 HW FullStack Developer / 2. Модуль 2. Основи CSS
