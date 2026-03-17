@@ -4,6 +4,10 @@ body {
     background-color: #ffffff;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .link {
     text-decoration: none;
 }
@@ -14,3 +18,8 @@ body {
 .order-button{
     text-decoration: none;
 }
+
+.navigation{
+    text-decoration: none;
+}
+
