@@ -1,9 +1,16 @@
 body {
-    font-family: ;
-    color: ;
-    background-color: ;
+    font-family: "Roboto", sans-serif;
+    color: NAVY BLUE;
+    background-color: #ffffff;
 }
 
 .link {
+    text-decoration: none;
+}
+.accent {
+    color: IRIS; 
+}
+
+.order-button{
     text-decoration: none;
 }
