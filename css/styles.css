@@ -4,7 +4,7 @@ body {
     color: #2E2F42;
     background-color: #ffffff;
 }
-header {
+.header {
     color: #2E2F42;
     font-size: 16px;
     line-height: 1.5;
@@ -18,7 +18,7 @@ ul {
     list-style-type: none;
 }
 
-h3{
+.name-card{
     font-weight: 500;
     color: #2E2F42;
     font-size: 20px;
@@ -26,7 +26,7 @@ h3{
     letter-spacing: 0.02em;
 }
 
-p{
+.text{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -34,9 +34,12 @@ p{
     color: #434455;
 }
 
-h1 
-{
+.hero{
     background-color: #2E2F42;
+}
+.hero-title
+{
+    
     color: white;
     font-weight: 700;
     font-size: 56px;
@@ -88,6 +91,7 @@ h1
 .navigat, .navigat-stu{
     text-decoration: none;
     color: #2E2F42;
+    font-weight: 500;
     letter-spacing: 0.02em;
 }
 
@@ -123,14 +127,14 @@ h1
     letter-spacing: 0.02em;
 }
 
-footer {
+.footer {
     background-color: #2E2F42;
     color: #F4F4FD;
     font-size: 16px;
     line-height: 1.5;
 }
 
-footer p{
+.footer .text{
     color: inherit;
 }
 
