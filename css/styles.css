@@ -1,37 +1,125 @@
 body {
     font-family: "Roboto", sans-serif;
+    font-weight: 400;
     color: #2E2F42;
     background-color: #ffffff;
+}
+header {
+    color: #2E2F42;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    text-decoration: none;
 }
 
 ul {
     list-style-type: none;
 }
 
+h3{
+    font-weight: 500;
+    color: #2E2F42;
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+h4{
+    font-weight: 400;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
 .hero 
 {
     background-color: #2E2F42;
     color: white;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+}
+.title-one{
+    text-align: center;
 }
 
 .order-button
 {
     background-color: #4D5AE5;
-
+    color: inherit;/*white;*/ 
+    font-size: 16px;
+    line-height: 1.5;
+}
+.order-button:hover,.order-button:focus{
+    background-color: #404BBF;
 }
 
 .link {
     text-decoration: none;
+    color: #434455;
 }
-.accent {
+.link:hover, .link:focus{
+    color: #404BBF;
+}
+
+.logo{
+    font-family: "Raleway";
+    font-weight: 700;
+    color: inherit;
+    font-size: 18px;
+    line-height: 1.17;
+}
+
+.logo-accent {
     color: #4D5AE5; 
 }
 
 .order-button{
     text-decoration: none;
+    cursor: pointer;
 }
 
-.navigation{
+.navigat, .navigat-stu{
     text-decoration: none;
 }
+
+.navigat:hover, .navigat:focus, .navigat-stu:hover, .navigat-stu:focus{
+    color: #404BBF;
+}
+
+.section-team {
+    background-color: #F4F4FD;
+}
+
+.team{
+    font-weight: 700;
+    text-align: center;
+    font-size: 36px;
+    line-height: 1.11;
+    
+}
+.person{
+    background-color: #ffffff;
+}
+
+.cont{
+    text-align: center;
+}
+
+.portfolio{
+    font-weight: 700;
+    text-align: center;
+    font-size: 36px;
+    line-height: 1.11;
+}
+
+footer {
+    background-color: #2E2F42;
+    color: #F4F4FD;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
 
