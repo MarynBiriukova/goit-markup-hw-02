@@ -134,8 +134,9 @@ ul {
     line-height: 1.5;
 }
 
-.footer .text{
-    color: inherit;
+.footer-text{
+    letter-spacing: 0.02em;
+   /* color: inherit;*/
 }
 
 
